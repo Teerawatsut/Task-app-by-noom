@@ -45,8 +45,9 @@ export default function Home() {
                       mx-auto mt-20 flex flex-col items-center"
       >
         <img src={task} alt="Task" className="w-40 mb-4" />
+        
 
-        <h1 className="text-3xl font-bold text-gray-800">Task Application asset It</h1>
+        <h1 className="text-3xl font-bold text-gray-800">Task Application Asset IT DTI</h1>
 
         <input
           type="text"
